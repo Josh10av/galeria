@@ -1,0 +1,35 @@
+#body{
+ 
+   width: 900px; 
+   margin: auto;
+   background-color: lightgreen;
+   border: dotted;
+}
+
+h1 {
+ background-color: darkgreen;   
+    
+}
+
+nav li {
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+#fullbody {
+   background-color: beige; 
+    
+}
+
+#body1 {
+   width: 30%; 
+   margin: auto;
+   background-color: forestgreen;
+}
+
+#estructura {
+   width: 0%; 
+   margin: auto;
+   background-color: lightcyan;
+}
